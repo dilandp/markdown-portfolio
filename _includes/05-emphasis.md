@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Gelora Asmara**
+_Datanglah, nyatakanlah cintamu
+Katakan bahwa kau menginginkan diriku
+Datanglah, bawalah bunga-bunga
+Agar kau dapat membuat diriku terbang_
+
+by _**Groove Bandit**_
